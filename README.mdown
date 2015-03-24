@@ -1,0 +1,25 @@
+# latex-presentation-template #
+
+LaTeX template for presentations. Includes the package and styles I use the most.
+
+## Usage ##
+
+1. Clone this repository with its new name:
+
+    ```shell
+    $ git clone https://github.com/jacquerie/latex-presentation-template.git new-presentation
+    ```
+
+2. Start working on the presentation:
+
+    ```shell
+    $ cd new-presentation && vim tex/presentation.tex
+    ```
+
+## Author ##
+
+Jacopo Notarstefano [(@Jaconotar)](https://twitter.com/Jaconotar)
+
+## License ##
+
+MIT
